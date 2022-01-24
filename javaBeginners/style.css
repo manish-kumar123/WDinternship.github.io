@@ -1,0 +1,63 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.course-summary{
+  background-color: lightgrey;
+  border: 10px;
+  padding: 50px;
+  box-sizing: inherit;
+}
+.alignleft {
+     float: left;
+}
+.alignright {
+     float: right;
+}
+.aligncenter{
+     float: center;
+}
+.course{
+  background-color: rgb(5, 77, 71));
+  border: 10px;
+  padding: 50px;
+  box-sizing: inherit;
+}
+.round{
+     width: 120px;
+     margin: 10px;
+     height: 100px;
+     display: block;
+}
+#testimonials span{
+    font-size: 12px;
+    color: #333;
+}
+.profile:hover{
+    box-shadow: 0 0 15px 15px rgba(0,0,0,0.2);
+    cursor: pointer;
+    transition: 0.7s;
+}
+.user{
+     width: 100px;
+     height: 100px;
+}
+.stars{
+     width:330px;
+     height: 30px;
+     margin-left: auto;
+     margin-right: auto;
+}
+#video
+{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+#video .row{
+    margin-top: 60px;
+}
+.col-md-4{
+    margin: 30px auto;
+}
